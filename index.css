@@ -1,0 +1,179 @@
+
+
+div.contents{
+    float: left
+   
+
+
+}
+div.logo{
+    float: left;
+    font-size: 16px;
+    
+}
+div.logo1{
+    float: right;
+    
+}
+div.sweet{
+    float: right;
+    display: flex;
+    flex-direction: row;
+    right: 100%;
+    align-items: flex-end;
+}
+div.order1{
+float: left;
+text-align: center;
+padding: 20px;
+border-start-end-radius: 20%;
+
+   
+}
+div.order2{
+    padding: 10px.10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline block;
+    font-size: 16px;
+    border-top-left-radius: 30%;
+    border-bottom-left-radius: 30%;
+    border-top-right-radius:30%;
+    float:left
+}
+p.rain{
+    font-size: 30px;
+    float: left;
+    text-align: center;
+
+    
+    
+}
+p.rain1{
+    font-size: 20px;
+    float: left;
+}
+
+#container{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    display: flex;
+    background-attachment: rgb(240, 250, 250);
+    
+}
+.col1, .col2, .col3{
+    width: 33%;
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    height: auto;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: gray;
+    text-align: center;
+    font-size: 12px;
+
+}
+#variety{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: 0%;
+}
+.variety1, .variety2, .variety3{
+    width: 33%;
+    float: left;
+    margin: 20px;
+    
+    padding: 20px;
+    height: 300px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: lightgrey;
+    text-align: center;
+    font-size: 12px;
+    
+}
+.continuation{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: 0%;
+}
+.cont1, .cont2, .cont3{
+    width: 33%;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    height: 300px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: lightgrey;
+    text-align: center;
+    font-size: 12px;
+
+}
+
+h2.head{
+    text-align: center;
+    
+}
+.double{
+    font-weight: bold;
+    color:brown;
+}
+.var{
+    font-weight: bold;
+    color: brown;
+    font-size: 18px;
+}
+h2.quality{
+    font-weight: bold;
+    color: brown;
+
+}
+.double{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: 0%;
+}
+.double1 ,.double2{
+    width: 50%;
+    
+
+}
+.icon{
+
+    color: black;
+    font-size: 50px;
+}
+.icon1{
+
+    color: #ff9429;
+    font-size: 50px;
+}
+p.icon3{
+    color:black
+    
+}
+div.last{
+    width: 100%;
+}
+div.footer{
+    width: 100%;
+    display: flex;
+    height: auto;
+    margin: 0%;
+
+}
+div.blogo, .site, .home{
+    width: 33%;
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    height: auto;
+    box-sizing: border-box;
+
+}
