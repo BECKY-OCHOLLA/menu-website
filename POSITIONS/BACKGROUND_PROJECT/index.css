@@ -1,0 +1,40 @@
+*{
+    background-color: blue;
+}
+#first{
+    height: 300px;
+    width: 300px;
+    border: 2px solid white;
+    border-radius: 25px;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab9MMIU3KxQVseQSGTWyjcZSvv57htUlexw&usqp=CAU");
+    background-size: contain;
+}
+#second{
+    height: 300px;
+    width: 300px;
+    border: 2px dashed red;
+    background-image: url("https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-size: cover;
+    background-repeat: repeat-y;
+}
+#third{
+    height: 300px;
+    width: 300px;
+    background-image: url("https://i.pinimg.com/736x/91/4c/8a/914c8ad918ebadc9b8a23a18bd592c6d.jpg");
+    background-size: 240px 240px;
+    background-position: center center;
+    
+}
+span{
+    color: saddlebrown;
+
+}
+.possible{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-content: stretch;
+}
+.test{
+    float: left;
+}
