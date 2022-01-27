@@ -14,5 +14,5 @@ or on this live link https://becky-ocholla.github.io/menu-website/
 
 ## License
 copyright (c) 2022 beckynocholla [click to view licence](LICENSE)
-gh-pages
+
 
