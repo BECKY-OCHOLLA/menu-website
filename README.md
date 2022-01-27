@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-#
-=======
+
 # Restaurant Menu
+
 
 ### version v1.o.1
 ## Description
@@ -15,4 +14,5 @@ or on this live link https://becky-ocholla.github.io/menu-website/
 
 ## License
 copyright (c) 2022 beckynocholla [click to view licence](LICENSE)
->>>>>>> gh-pages
+gh-pages
+
