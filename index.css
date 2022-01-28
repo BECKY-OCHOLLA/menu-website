@@ -15,11 +15,27 @@ header{
 span{
     color: #ff9429;
 }
-.list ul{
-    display: flex;
-    justify-content: rightS;
+
+.list{
+    float: right;
+    display: inline;
+}
+ul li a:hover{
+    color: white;
+}
+
+
+ul li{
+    padding: 18px;
+    margin: 0;
+    list-style:none;
+    font-weight:bold;
+    text-decoration: none;
+    display:inline;
+    
     
 }
+
 
 
 .order{
