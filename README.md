@@ -18,6 +18,6 @@ or on this live link https://becky-ocholla.github.io/menu-website/
 
 ## License
 copyright (c) 2022 beckynocholla [click to view licence](LICENSE)
-gh-pages
+
 
 >>>>>>> 5003720e1649b09de8f332a2d264c57650be601e
